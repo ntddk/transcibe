@@ -10,7 +10,7 @@ A script to transcribe audio files with Google Cloud Speech API.
 2. [Enable Google Cloud Speech API](https://console.developers.google.com/apis/api/speech.googleapis.com/overview).
 3. [Set up a service account](https://cloud.google.com/speech/docs/common/auth#set_up_a_service_account).
 4. Save `credential.json`.
-5.  Run command below:
+5.  Run commands below:
 
 ```sh
 export GOOGLE_APPLICATION_CREDENTIALS=credential.json
